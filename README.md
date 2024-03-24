@@ -4,12 +4,11 @@ Ce répertoire contient une collection de travaux pratiques réalisés en utilis
 
 ## Contenu
 
-- [TP2](tp-js-2-sujet/) : DOM et Fetch **[ Javascript ]**
-- [TP2 : Curseur, Exceptions et Trigger](TP2.sql)
-- [TP3 : Types composites](TP3.sql)
-- [TP4 : Fonctions](TP4.sql)
-- [TP5 : Transactions](TP5.sql)
-- [CC : Contrôle continu](CC_PaulLemonnier.sql)
+- [TP2 JS](tp-js-2-sujet/) : DOM et Fetch **[ Javascript ]**
+- [TP3 JS](tp-js-3-sujet/) : Classe, Listeners, Courbes **[ Javascript ]**
+- [TP4 JS](tp-js-4-sujet/) : Fetch, CSV, XML, JQ, Opérations asynchrones, Graphiques **[ Javascript ]**
+
+
 
 Dans chaque fichier de TP se trouve des implémentations des divers sujets et concepts important en base de données.   
 
